@@ -1,0 +1,10 @@
+Required env variables:
+
+```
+OPENAI_API_KEY=key
+TAVILY_API_KEY=key
+LANGFUSE_PUBLIC_KEY=key
+LANGFUSE_SECRET_KEY=key
+LANGFUSE_BASEURL=url
+DATABASE_URL=connection
+```
